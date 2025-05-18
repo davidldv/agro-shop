@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Ana",
+        "cedula": "321",
+        "facturas": [
+            {
+                "fecha": "2025-05-17 23:59:20",
+                "valor_total": 10000,
+                "productos": [
+                    {
+                        "tipo": "Fertilizante",
+                        "nombre": "FertB",
+                        "precio": 10000,
+                        "registro_ica": "ICA000",
+                        "frecuencia": "Cada mes",
+                        "ultima_aplicacion": "2024-03-01"
+                    }
+                ]
+            }
+        ]
+    }
+]
