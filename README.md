@@ -6,7 +6,7 @@
 
 ## Diagrama UML
 
-![UML](img/uml.jpg)
+![UML](img/diagrama.png)
 
 ## Ejecución
 
